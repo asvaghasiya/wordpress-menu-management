@@ -1,0 +1,51 @@
+/*
+ *  custom style
+ */
+ .wp-menu-management-main .container{max-width: 1220px;padding: 0 10px;}
+ .wp-menu-management-main .container .tab-main ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px;
+}
+.wp-menu-management-main .outer_tab{
+  width: 100%;
+}
+.wp-menu-management-main .container ul li{
+  width: 33.33%;
+  padding: 15px;
+  cursor: pointer;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  transition: background 0.2s ease-in-out;
+  background: #fff;
+  color: #2c3e50;
+  margin: 0px;
+}
+.wp-menu-management-main .container ul li.active{
+  background: #007bff;
+  color: #fff;
+}
+.wp-menu-management-main .contents {
+    padding: 80px 0px;
+    background: #e5e5e5;
+    text-align: center;
+}
+.wp-menu-management-main .container .contents .tab-content{
+  padding: 9px 14px;
+  color: #000;
+}
+.wp-menu-management-main .contents .tab-content select{height: 32px; line-height: 32px; padding:0px; margin: 0px;} 
+.wp-menu-management-main .container .contents .tab-content.active p{
+  font-size: 16px;
+  line-height: 25px;
+  margin-top: 15px;
+}
+.wp-menu-management-main .tab-content{ display: none;} 
+.wp-menu-management-main .tab-content.active{display:block }
+.outer_main_menu{display: flex;}
+.inner_menu_desc{padding: 15px;background-color: #fff;}
+.menu_description{margin-left: 20px;}

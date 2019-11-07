@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-08-23 14:32+0530\n"
+"PO-Revision-Date: 2019-08-23 14:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/class-admin-menu.php:31
+msgid "Import Menu"
+msgstr ""
+
+#: includes/admin/class-admin-menu.php:32
+#: includes/admin/class-admin-menu.php:56
+msgid "Export Menu"
+msgstr ""
+
+#: includes/admin/class-admin-menu.php:33
+msgid "Delete Menu"
+msgstr ""
+
+#: includes/admin/class-admin-menu.php:49
+#: includes/admin/class-admin-menu.php:69
+msgid "Select Menu"
+msgstr ""
+
+#: includes/admin/class-admin-menu.php:74
+msgid "Delete All"
+msgstr ""
+
+#: includes/admin/class-admin-menu.php:87
+msgid ""
+"<p><strong>Important Notes:</strong></p><p><strong>-></strong> Menu name "
+"will only appear in the dropdown when  page, post, or custom link under the "
+"menu, Check Menu in <strong>Appearance->menus</strong></p>\n"
+"\t\t            \t\t<p><strong>-></strong>You can import only .csv file that "
+"you are export from our plugin</p>\n"
+"\t\t            \t\t<p><strong>-></strong>If you can exported file import "
+"into other site then menu structure display same but menu page title shows "
+"like <strong>#0 (no title)</strong></p>"
+msgstr ""
